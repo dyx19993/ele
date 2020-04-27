@@ -1,0 +1,12 @@
+// 自己提供。vue+vuex+vue-router-axios-elementUi等
+1、api:提供接口
+    node server.js
+2、manage:后台管理项目
+    src
+        ->components:存放普通组件
+            common:存放项目当中的公共组件  PageList
+            shop:店铺相关的组件。
+        ->views:存放路由组件。
+    npm run serve
+3、site:前端展示
+
